@@ -5,10 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.emp.gl</groupId>
-  <artifactId>firsttp</artifactId>
+  <artifactId>tp-racine</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
 
-  <name>firsttp</name>
+  <name>tp-racine</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
